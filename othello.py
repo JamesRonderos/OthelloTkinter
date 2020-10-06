@@ -1,8 +1,5 @@
 '''
-Class: CPSC 427
-Team Member 1: James Ronderos
-File Name:  proj13-othello.py
-python proj13-othello.py
+James Ronderos
 '''
 
 from tkinter import *
